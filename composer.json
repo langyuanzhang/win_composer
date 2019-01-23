@@ -1,15 +1,9 @@
-# win_composer
-安装使用composer
-
-在根目录下添加配置 composer.json 文件
-
-```json
 {
     "name": "administrator/claim",
     "authors": [
         {
-            "name": "zly",
-            "email": "123@qq.com"
+            "name": "langyuanzhang",
+            "email": "982466450@qq.com"
         }
     ],
     "require": {
@@ -24,10 +18,3 @@
         }
     }
 }
-```
-
-再使用指令
-
-```
-composer install
-```
